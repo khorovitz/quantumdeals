@@ -1,1 +1,1 @@
-https://quantumdeals.github.io
+https://khorovitz.github.io/quantumdeals
