@@ -1,4 +1,3 @@
 theme: minima
 url: "https://khorovitz.github.io"
-# For a user site (served at https://khorovitz.github.io/) leave baseurl empty
-baseurl: ""
+baseurl: "/quantumdeals"
