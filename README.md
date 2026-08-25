@@ -1,0 +1,1 @@
+https://quantumdeals.github.io
